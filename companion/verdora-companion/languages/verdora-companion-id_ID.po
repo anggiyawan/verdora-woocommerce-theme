@@ -1,0 +1,185 @@
+# Copyright (C) 2026 Priyana Anggiyawan
+# This file is distributed under the GNU General Public License v2 or later.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Verdora Companion 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/anggiyawan/verdora-woocommerce-theme/issues\n"
+"POT-Creation-Date: 2026-11-15 02:17+0000\n"
+"PO-Revision-Date: 2026-11-15 02:17+0000\n"
+"Last-Translator: Priyana Anggiyawan\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: verdora-companion\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: includes/demo-import.php:102
+msgid "%d skipped because its SKU already exists."
+msgid_plural "%d skipped because their SKU already exists."
+msgstr[0] "%d dilewati karena SKU-nya sudah ada."
+
+#: includes/demo-import.php:105
+msgid "View store →"
+msgstr "Lihat toko →"
+
+#: includes/demo-import.php:111
+msgid "%d demo product and its images were deleted."
+msgid_plural "%d demo products and their images were deleted."
+msgstr[0] "%d produk contoh beserta gambarnya sudah dihapus."
+
+#: includes/demo-import.php:117
+msgid "Fill the store with 10 complete demo products (description, attributes, sale prices, stock and images) to see the Verdora theme at its best. Demo data is marked, so the Delete button only removes demo data and never touches your own products."
+msgstr "Isi toko dengan 10 produk contoh lengkap (deskripsi, atribut, harga diskon, stok, dan gambar) untuk melihat tampilan tema Verdora secara utuh. Data contoh diberi penanda khusus, sehingga tombol Hapus hanya menghapus data contoh dan tidak menyentuh produk milikmu."
+
+#: includes/demo-import.php:125
+msgid "Installed: %d demo product"
+msgid_plural "Installed: %d demo products"
+msgstr[0] "Terpasang: %d produk contoh"
+
+#: includes/demo-import.php:129
+msgid "Not imported yet"
+msgstr "Belum diimpor"
+
+#: includes/demo-import.php:136
+msgid "Import missing products"
+msgstr "Impor yang belum ada"
+
+#: includes/demo-import.php:136
+msgid "Import Demo Content"
+msgstr "Impor Data Contoh"
+
+#: includes/demo-import.php:141
+msgid "Delete all demo products and their images? Your own products will not be deleted."
+msgstr "Hapus semua produk contoh beserta gambarnya? Produk milikmu tidak akan terhapus."
+
+#: includes/demo-import.php:144
+msgid "Delete Demo Content"
+msgstr "Hapus Data Contoh"
+
+#: includes/demo-import.php:149
+msgid "What is included"
+msgstr "Isi data contoh"
+
+#: includes/demo-import.php:171
+msgid "The import uploads about 20 images to the Media Library and may take a few seconds. Missing categories are created and existing ones are reused. Products with the same SKU (VD-DEMO-xxx) are never imported twice."
+msgstr "Proses impor mengunggah sekitar 20 gambar ke Media Library dan bisa memakan waktu beberapa detik. Kategori yang belum ada akan dibuat; kategori yang sudah ada dipakai ulang. Produk dengan SKU yang sama (VD-DEMO-xxx) tidak diimpor dua kali."
+
+#: includes/demo-import.php:172
+msgid "Image sources and licenses are listed in demo/credits.txt."
+msgstr "Sumber dan lisensi gambar ada di demo/credits.txt."
+
+#: includes/demo-import.php:341 includes/demo-import.php:389
+msgid "You are not allowed to do this."
+msgstr "Kamu tidak punya izin untuk melakukan ini."
+
+#: includes/demo-import.php:481
+msgid "Your store is still empty."
+msgstr "Toko masih kosong."
+
+#: includes/demo-import.php:482
+msgid "Want to see the Verdora theme with products? Import 10 demo products with images. You can delete them again at any time."
+msgstr "Ingin melihat tampilan tema Verdora dengan produk? Impor 10 produk contoh lengkap dengan gambar. Bisa dihapus lagi kapan saja."
+
+#: includes/demo-import.php:485
+msgid "View Demo Content"
+msgstr "Lihat Data Contoh"
+
+#: includes/demo-import.php:486
+msgid "Don’t show again"
+msgstr "Jangan tampilkan lagi"
+
+#: includes/demo-import.php:67 includes/demo-import.php:68 includes/demo-import.php:93
+msgid "Verdora Demo Content"
+msgstr "Data Contoh Verdora"
+
+#: includes/demo-import.php:99
+msgid "%d demo product imported."
+msgid_plural "%d demo products imported."
+msgstr[0] "%d produk contoh berhasil diimpor."
+
+#: includes/seo.php:30
+msgid "SEO Meta Tags"
+msgstr "Meta Tag SEO"
+
+#: includes/seo.php:47
+msgid "Add a meta description and Open Graph tags"
+msgstr "Tambahkan meta description & Open Graph"
+
+#: includes/seo.php:48
+msgid "Skipped automatically when an SEO plugin (Yoast, Rank Math, AIOSEO, SEOPress, The SEO Framework) is active."
+msgstr "Otomatis tidak dipakai jika plugin SEO (Yoast, Rank Math, AIOSEO, SEOPress, The SEO Framework) aktif."
+
+#: includes/whatsapp.php:104
+msgid "WhatsApp number"
+msgstr "Nomor WhatsApp"
+
+#: includes/whatsapp.php:105
+msgid "International format such as 6281234567890. Local Indonesian numbers (08…) are converted automatically. Leave empty to turn off all WhatsApp features."
+msgstr "Format internasional seperti 6281234567890. Nomor lokal (08…) diubah otomatis. Kosongkan untuk mematikan semua fitur WhatsApp."
+
+#: includes/whatsapp.php:110
+msgid "Show the floating chat button"
+msgstr "Tampilkan tombol chat melayang"
+
+#: includes/whatsapp.php:115
+msgid "Floating button position"
+msgstr "Posisi tombol melayang"
+
+#: includes/whatsapp.php:117
+msgid "Bottom right"
+msgstr "Kanan bawah"
+
+#: includes/whatsapp.php:118
+msgid "Bottom left"
+msgstr "Kiri bawah"
+
+#: includes/whatsapp.php:124
+msgid "Floating button text (desktop)"
+msgstr "Teks tombol melayang (desktop)"
+
+#: includes/whatsapp.php:129
+msgid "Show an \"Ask via WhatsApp\" button on product pages"
+msgstr "Tampilkan tombol \"Tanya via WhatsApp\" di halaman produk"
+
+#: includes/whatsapp.php:134
+msgid "Greeting message"
+msgstr "Pesan pembuka"
+
+#: includes/whatsapp.php:135
+msgid "{site} is replaced with the store name. On product pages the product name and link are added automatically."
+msgstr "{site} diganti nama toko. Di halaman produk, nama dan link produk ditambahkan otomatis."
+
+#: includes/whatsapp.php:233
+msgid "Chat via WhatsApp"
+msgstr "Chat via WhatsApp"
+
+#: includes/whatsapp.php:256
+msgid "Ask via WhatsApp"
+msgstr "Tanya via WhatsApp"
+
+#: includes/whatsapp.php:271
+msgid "Chat Seller"
+msgstr "Chat Penjual"
+
+#: includes/whatsapp.php:52
+msgid "Product: %s"
+msgstr "Produk: %s"
+
+#: includes/whatsapp.php:90
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: includes/whatsapp.php:91 includes/seo.php:31
+msgid "Added by the Verdora Companion plugin."
+msgstr "Ditambahkan oleh plugin Verdora Companion."
+
+#: verdora-companion.php:44
+msgid "Chat with us"
+msgstr "Chat Kami"
+
+#: verdora-companion.php:46
+msgid "Hi {site}, I have a question."
+msgstr "Halo {site}, saya mau bertanya."

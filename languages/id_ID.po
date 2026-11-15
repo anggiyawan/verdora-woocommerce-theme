@@ -1,0 +1,1254 @@
+# Copyright (C) 2026 Priyana Anggiyawan
+# This file is distributed under the GNU General Public License v2 or later.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Verdora 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/anggiyawan/verdora-woocommerce-theme/issues\n"
+"POT-Creation-Date: 2026-11-15 02:16+0000\n"
+"PO-Revision-Date: 2026-11-15 02:16+0000\n"
+"Last-Translator: Priyana Anggiyawan\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: verdora\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 404.php:16
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+#: 404.php:17
+msgid "The page you are looking for may have been moved or is no longer available. Try searching for the product below."
+msgstr "Halaman yang kamu cari mungkin sudah dipindah atau tidak tersedia. Coba cari produknya di bawah ini."
+
+#: 404.php:19
+msgid "Back to Home"
+msgstr "Kembali ke Beranda"
+
+#: comments.php:18
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s komentar"
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: footer.php:123
+msgid "Quick navigation"
+msgstr "Navigasi cepat"
+
+#: footer.php:141
+msgid "Back to top"
+msgstr "Kembali ke atas"
+
+#: footer.php:85 footer.php:132
+msgid "Cart"
+msgstr "Keranjang"
+
+#: footer.php:88
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+#: footer.php:96
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Langsung ke konten"
+
+#: header.php:30
+msgid "Top bar menu"
+msgstr "Menu bar atas"
+
+#: header.php:46 footer.php:86
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: header.php:46
+msgid "Log in / Register"
+msgstr "Masuk / Daftar"
+
+#: header.php:56
+msgid "Open menu"
+msgstr "Buka menu"
+
+#: header.php:71 footer.php:135
+msgid "Account"
+msgstr "Akun"
+
+#: header.php:75
+msgid "Shopping cart"
+msgstr "Keranjang belanja"
+
+#: header.php:84
+msgid "Primary navigation"
+msgstr "Navigasi utama"
+
+#: inc/customizer-options.php:101
+msgid "Sale & notification color"
+msgstr "Warna diskon & notifikasi"
+
+#: inc/customizer-options.php:103
+msgid "Sale badges and the number on the cart icon."
+msgstr "Badge diskon dan angka di ikon keranjang."
+
+#: inc/customizer-options.php:107
+msgid "Page background color"
+msgstr "Warna latar halaman"
+
+#: inc/customizer-options.php:112
+msgid "Fonts & shapes"
+msgstr "Huruf & bentuk"
+
+#: inc/customizer-options.php:116
+msgid "Font"
+msgstr "Jenis huruf"
+
+#: inc/customizer-options.php:124
+msgid "Device default font (lightest)"
+msgstr "Huruf bawaan perangkat (paling ringan)"
+
+#: inc/customizer-options.php:126
+msgid "The \"Device default font\" option does not load Google Fonts at all."
+msgstr "Pilihan \"Huruf bawaan perangkat\" tidak memuat Google Fonts sama sekali."
+
+#: inc/customizer-options.php:130
+msgid "Corner style for cards & buttons"
+msgstr "Bentuk sudut kartu & tombol"
+
+#: inc/customizer-options.php:133
+msgid "Sharp (slightly rounded)"
+msgstr "Tegas (sedikit membulat)"
+
+#: inc/customizer-options.php:134
+msgid "Medium"
+msgstr "Sedang"
+
+#: inc/customizer-options.php:135
+msgid "Very round"
+msgstr "Sangat bulat"
+
+#: inc/customizer-options.php:140
+msgid "Maximum content width"
+msgstr "Lebar maksimal konten"
+
+#: inc/customizer-options.php:143
+msgid "Narrow (1140 px)"
+msgstr "Sempit (1140 px)"
+
+#: inc/customizer-options.php:144
+msgid "Normal (1240 px)"
+msgstr "Normal (1240 px)"
+
+#: inc/customizer-options.php:145
+msgid "Wide (1400 px)"
+msgstr "Lebar (1400 px)"
+
+#: inc/customizer-options.php:150
+msgid "Enable animations"
+msgstr "Aktifkan animasi"
+
+#: inc/customizer-options.php:152
+msgid "Reveal-on-scroll effects and floating decorations in the banner. Hover effects stay on."
+msgstr "Efek muncul saat scroll dan ornamen melayang di banner. Efek hover tetap aktif."
+
+#: inc/customizer-options.php:158
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer-options.php:162
+msgid "Top bar text"
+msgstr "Teks bar atas"
+
+#: inc/customizer-options.php:163
+msgid "Welcome! Find your favorite products at the best prices."
+msgstr "Selamat datang! Temukan produk favoritmu dengan harga terbaik."
+
+#: inc/customizer-options.php:164
+msgid "Leave empty to hide the top bar."
+msgstr "Kosongkan untuk menyembunyikan bar atas."
+
+#: inc/customizer-options.php:168
+msgid "Show the \"Log in / Register\" link in the top bar"
+msgstr "Tampilkan link \"Masuk / Daftar\" di bar atas"
+
+#: inc/customizer-options.php:173
+msgid "Keep the header visible while scrolling"
+msgstr "Header tetap terlihat saat halaman di-scroll"
+
+#: inc/customizer-options.php:178
+msgid "Show the account icon"
+msgstr "Tampilkan ikon akun"
+
+#: inc/customizer-options.php:183
+msgid "Search bar"
+msgstr "Pencarian"
+
+#: inc/customizer-options.php:187
+msgid "Search field placeholder"
+msgstr "Teks petunjuk di kolom pencarian"
+
+#: inc/customizer-options.php:188
+msgid "Search products in the store…"
+msgstr "Cari produk di toko…"
+
+#: inc/customizer-options.php:192
+msgid "Show the category picker in the search field (desktop)"
+msgstr "Tampilkan pilihan kategori di kolom pencarian (desktop)"
+
+#: inc/customizer-options.php:197
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: inc/customizer-options.php:201
+msgid "Show the navigation row below the header"
+msgstr "Tampilkan baris navigasi di bawah header"
+
+#: inc/customizer-options.php:203
+msgid "Its items come from the \"Primary Navigation\" menu (Appearance → Menus). Items with sub-items appear as dropdowns. Without a menu, product categories (with their subcategories) are shown automatically. Links in the very top bar are set with the \"Top Bar\" menu location."
+msgstr "Isinya dari menu \"Navigasi Utama\" (Appearance → Menus). Item yang punya sub-item tampil sebagai dropdown. Jika menu belum dibuat, kategori produk (beserta subkategorinya) ditampilkan otomatis. Link di bar paling atas diatur lewat lokasi menu \"Bar Atas\"."
+
+#: inc/customizer-options.php:209
+msgid "Home: Banner"
+msgstr "Beranda: Banner"
+
+#: inc/customizer-options.php:213
+msgid "Show the banner"
+msgstr "Tampilkan banner"
+
+#: inc/customizer-options.php:218
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer-options.php:219
+msgid "The banner can hold several slides: the main (text) slide, image slides you upload, and automatic slides built from your products."
+msgstr "Banner bisa berisi beberapa slide: slide utama (teks), slide gambar yang kamu unggah, dan slide otomatis dari produk toko."
+
+#: inc/customizer-options.php:223
+msgid "Autoplay"
+msgstr "Geser otomatis"
+
+#: inc/customizer-options.php:226
+msgid "Off"
+msgstr "Mati"
+
+#: inc/customizer-options.php:227
+msgid "Every 5 seconds"
+msgstr "Setiap 5 detik"
+
+#: inc/customizer-options.php:228
+msgid "Every 6 seconds"
+msgstr "Setiap 6 detik"
+
+#: inc/customizer-options.php:229
+msgid "Every 8 seconds"
+msgstr "Setiap 8 detik"
+
+#: inc/customizer-options.php:230
+msgid "Every 10 seconds"
+msgstr "Setiap 10 detik"
+
+#: inc/customizer-options.php:232
+msgid "Pauses while the pointer is over the banner and stops for good once a visitor swipes it. Never runs when the visitor's device is set to reduce motion."
+msgstr "Berhenti saat kursor di atas banner, dan berhenti permanen begitu pengunjung menggeser sendiri. Tidak berjalan bila pengunjung memilih \"kurangi animasi\" di perangkatnya."
+
+#: inc/customizer-options.php:236
+msgid "Add the automatic \"Sale\" & \"New Collection\" slides"
+msgstr "Tambahkan slide otomatis \"Diskon\" & \"Koleksi Terbaru\""
+
+#: inc/customizer-options.php:238
+msgid "Built from your store data: the biggest discount percentage and the newest product photos. The Sale slide only appears when products are on sale."
+msgstr "Dibuat dari data toko: persentase diskon terbesar dan foto produk terbaru. Slide Diskon hanya muncul bila ada produk diskon."
+
+#: inc/customizer-options.php:242
+msgid "Main slide (text)"
+msgstr "Slide utama (teks)"
+
+#: inc/customizer-options.php:246
+msgid "Show the main slide"
+msgstr "Tampilkan slide utama"
+
+#: inc/customizer-options.php:251
+msgid "Small label above the title"
+msgstr "Label kecil di atas judul"
+
+#: inc/customizer-options.php:252
+msgid "Special Offer"
+msgstr "Promo Spesial"
+
+#: inc/customizer-options.php:256 inc/customizer-options.php:431 inc/customizer-options.php:475 inc/customizer-options.php:515 inc/customizer-options.php:547
+msgid "Title"
+msgstr "Judul"
+
+#: inc/customizer-options.php:257
+msgid "Shop Smart, Live Greener"
+msgstr "Belanja Hemat, Hidup Lebih Hijau"
+
+#: inc/customizer-options.php:261
+msgid "Subtitle"
+msgstr "Subjudul"
+
+#: inc/customizer-options.php:262
+msgid "Discover handpicked products at the best prices every day, straight from our store."
+msgstr "Temukan produk pilihan dengan harga terbaik setiap hari, langsung dari toko kami."
+
+#: inc/customizer-options.php:266
+msgid "Button text"
+msgstr "Teks tombol"
+
+#: inc/customizer-options.php:267
+msgid "Shop Now"
+msgstr "Belanja Sekarang"
+
+#: inc/customizer-options.php:268 inc/customizer-options.php:578
+msgid "Leave empty to hide the button."
+msgstr "Kosongkan untuk menyembunyikan tombol."
+
+#: inc/customizer-options.php:272
+msgid "Button link"
+msgstr "Link tombol"
+
+#: inc/customizer-options.php:274
+msgid "Leave empty to link to the Shop page."
+msgstr "Kosongkan untuk menuju halaman Shop."
+
+#: inc/customizer-options.php:278
+msgid "Image on the right side of the banner"
+msgstr "Gambar di sisi kanan banner"
+
+#: inc/customizer-options.php:280
+msgid "Optional. A transparent PNG works best, such as a product photo without a background. If empty, a collage of Featured products (or the newest products) is shown."
+msgstr "Opsional. Paling bagus PNG transparan, misalnya foto produk tanpa latar. Jika kosong, ditampilkan kolase foto Produk Unggulan (atau produk terbaru)."
+
+#: inc/customizer-options.php:284
+msgid "Show decorative shapes on slides"
+msgstr "Tampilkan ornamen dekoratif di slide"
+
+#: inc/customizer-options.php:289
+msgid "Background & size"
+msgstr "Latar belakang & ukuran"
+
+#: inc/customizer-options.php:293
+msgid "Gradient start color"
+msgstr "Warna gradien awal"
+
+#: inc/customizer-options.php:295
+msgid "Leave empty to follow the primary color."
+msgstr "Kosongkan agar mengikuti warna utama."
+
+#: inc/customizer-options.php:299
+msgid "Gradient end color"
+msgstr "Warna gradien akhir"
+
+#: inc/customizer-options.php:30
+msgid "Image slides (your own banners)"
+msgstr "Slide gambar (banner sendiri)"
+
+#: inc/customizer-options.php:301
+msgid "Leave empty to follow the primary color (dark shade)."
+msgstr "Kosongkan agar mengikuti warna utama (versi gelap)."
+
+#: inc/customizer-options.php:305
+msgid "Background image (optional)"
+msgstr "Gambar latar (opsional)"
+
+#: inc/customizer-options.php:307
+msgid "Covers the whole banner, on top of the gradient. At least 1600 × 600 px recommended."
+msgstr "Menutupi seluruh banner, di atas gradien. Disarankan minimal 1600 × 600 px."
+
+#: inc/customizer-options.php:31
+msgid "Upload finished banners that already contain your text and design. Recommended size: desktop 1600 × 600 px, mobile 800 × 400 px. Alternative text comes from the image's \"Alt Text\" field in the Media Library."
+msgstr "Unggah banner jadi yang sudah berisi teks & desain. Ukuran disarankan: desktop 1600 × 600 px, HP 800 × 400 px. Teks alternatif diambil dari kolom \"Alt Text\" gambar di Media Library."
+
+#: inc/customizer-options.php:311
+msgid "Overlay strength over the background image"
+msgstr "Ketebalan lapisan di atas gambar latar"
+
+#: inc/customizer-options.php:318
+msgid "Slide to the right to make the text easier to read. Dark overlay for white text, light overlay for dark text."
+msgstr "Geser ke kanan agar teks lebih mudah dibaca. Lapisan gelap untuk teks putih, lapisan terang untuk teks gelap."
+
+#: inc/customizer-options.php:323
+msgid "Banner text color"
+msgstr "Warna teks banner"
+
+#: inc/customizer-options.php:326
+msgid "White (for dark backgrounds)"
+msgstr "Putih (untuk latar gelap)"
+
+#: inc/customizer-options.php:327
+msgid "Dark (for light backgrounds)"
+msgstr "Gelap (untuk latar terang)"
+
+#: inc/customizer-options.php:332
+msgid "Banner height (desktop)"
+msgstr "Tinggi banner (desktop)"
+
+#: inc/customizer-options.php:335
+msgid "Compact"
+msgstr "Ringkas"
+
+#: inc/customizer-options.php:336
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer-options.php:337
+msgid "Tall"
+msgstr "Tinggi"
+
+#: inc/customizer-options.php:343
+msgid "Promo boxes next to the banner"
+msgstr "Kotak promo di samping banner"
+
+#: inc/customizer-options.php:347
+msgid "Show 2 promo boxes"
+msgstr "Tampilkan 2 kotak promo"
+
+#: inc/customizer-options.php:349
+msgid "When turned off, the banner spans the full width."
+msgstr "Jika dimatikan, banner melebar penuh."
+
+#: inc/customizer-options.php:353
+msgid "Promo 1: title"
+msgstr "Promo 1: judul"
+
+#: inc/customizer-options.php:354
+msgid "On Sale Now"
+msgstr "Lagi Diskon"
+
+#: inc/customizer-options.php:359
+msgid "Promo 1: subtitle"
+msgstr "Promo 1: subjudul"
+
+#: inc/customizer-options.php:360
+msgid "See every product that is on sale"
+msgstr "Lihat semua produk yang sedang promo"
+
+#: inc/customizer-options.php:365
+msgid "Promo 1: link"
+msgstr "Promo 1: link"
+
+#: inc/customizer-options.php:367
+msgid "Leave empty to link to the list of discounted products."
+msgstr "Kosongkan untuk menuju daftar produk diskon."
+
+#: inc/customizer-options.php:372
+msgid "Promo 1: banner image (optional)"
+msgstr "Promo 1: gambar banner (opsional)"
+
+#: inc/customizer-options.php:374 inc/customizer-options.php:400
+msgid "Replaces the text layout with a finished banner. 800 × 360 px recommended."
+msgstr "Menggantikan tampilan teks dengan banner jadi. Disarankan 800 × 360 px."
+
+#: inc/customizer-options.php:379
+msgid "Promo 2: title"
+msgstr "Promo 2: judul"
+
+#: inc/customizer-options.php:38
+msgid "Slide %d: desktop image"
+msgstr "Slide %d: gambar desktop"
+
+#: inc/customizer-options.php:380
+msgid "Latest Products"
+msgstr "Produk Terbaru"
+
+#: inc/customizer-options.php:385
+msgid "Promo 2: subtitle"
+msgstr "Promo 2: subjudul"
+
+#: inc/customizer-options.php:386
+msgid "Check out the latest arrivals"
+msgstr "Cek koleksi yang baru datang"
+
+#: inc/customizer-options.php:391
+msgid "Promo 2: link"
+msgstr "Promo 2: link"
+
+#: inc/customizer-options.php:393
+msgid "Leave empty to link to the newest products."
+msgstr "Kosongkan untuk menuju produk terbaru."
+
+#: inc/customizer-options.php:398
+msgid "Promo 2: banner image (optional)"
+msgstr "Promo 2: gambar banner (opsional)"
+
+#: inc/customizer-options.php:407
+msgid "Home: Product Sections"
+msgstr "Beranda: Section Produk"
+
+#: inc/customizer-options.php:408
+msgid "Choose which sections appear on the home page. \"Order\" sets their position: lower numbers come first."
+msgstr "Pilih section yang tampil di beranda. \"Urutan\" menentukan posisi: angka kecil tampil lebih dulu."
+
+#: inc/customizer-options.php:412
+msgid "Quick Menu"
+msgstr "Menu Cepat"
+
+#: inc/customizer-options.php:416
+msgid "Show the quick menu icons below the banner"
+msgstr "Tampilkan ikon menu cepat di bawah banner"
+
+#: inc/customizer-options.php:418
+msgid "Colorful shortcuts like in marketplace apps: Flash Sale, Discounts, Best Sellers, New Arrivals, Top Rated, All Products and My Orders. Shortcuts that don't apply are hidden automatically (for example Flash Sale when nothing is on sale)."
+msgstr "Pintasan berwarna seperti di aplikasi marketplace: Flash Sale, Diskon, Terlaris, Produk Baru, Rating Terbaik, Semua Produk, dan Pesanan Saya. Ikon yang tidak relevan disembunyikan otomatis (misalnya Flash Sale bila tidak ada produk diskon)."
+
+#: inc/customizer-options.php:426
+msgid "Show the Categories section"
+msgstr "Tampilkan section Kategori"
+
+#: inc/customizer-options.php:432
+msgid "Shop by Category"
+msgstr "Kategori Pilihan"
+
+#: inc/customizer-options.php:437
+msgid "Maximum number of categories"
+msgstr "Jumlah kategori maksimal"
+
+#: inc/customizer-options.php:44
+msgid "Slide %d: mobile image (optional)"
+msgstr "Slide %d: gambar HP (opsional)"
+
+#: inc/customizer-options.php:447
+msgid "Category image style"
+msgstr "Tampilan gambar kategori"
+
+#: inc/customizer-options.php:450
+msgid "Product photo in a circle"
+msgstr "Foto produk dalam lingkaran"
+
+#: inc/customizer-options.php:451
+msgid "Colored icon"
+msgstr "Ikon berwarna"
+
+#: inc/customizer-options.php:453
+msgid "A category image set in Products → Categories always comes first. Otherwise, Photo mode uses the newest product photo in that category and Icon mode uses a colored icon."
+msgstr "Gambar kategori dari Products → Categories selalu diutamakan. Jika kosong: mode Foto memakai foto produk terbaru di kategori itu, mode Ikon memakai ikon berwarna."
+
+#: inc/customizer-options.php:458 inc/customizer-options.php:498 inc/customizer-options.php:531 inc/customizer-options.php:583
+msgid "Order"
+msgstr "Urutan"
+
+#: inc/customizer-options.php:46
+msgid "If empty, the desktop image is used on mobile too."
+msgstr "Jika kosong, gambar desktop dipakai juga di HP."
+
+#: inc/customizer-options.php:465 inc/customizer-options.php:476 inc/home.php:231
+msgid "Flash Sale"
+msgstr "Flash Sale"
+
+#: inc/customizer-options.php:469
+msgid "Show Flash Sale"
+msgstr "Tampilkan Flash Sale"
+
+#: inc/customizer-options.php:471
+msgid "Lists products that currently have a sale price."
+msgstr "Berisi produk yang sedang punya harga diskon (Sale price)."
+
+#: inc/customizer-options.php:481
+msgid "Ends at"
+msgstr "Berakhir pada"
+
+#: inc/customizer-options.php:483
+msgid "Leave empty to always count down to the end of today. Once it has passed, the section is hidden automatically."
+msgstr "Kosongkan agar hitung mundur selalu ke akhir hari ini. Setelah lewat, section otomatis disembunyikan."
+
+#: inc/customizer-options.php:488 inc/customizer-options.php:521
+msgid "Maximum number of products"
+msgstr "Jumlah produk maksimal"
+
+#: inc/customizer-options.php:505 inc/customizer-options.php:516
+msgid "Featured Products"
+msgstr "Produk Pilihan"
+
+#: inc/customizer-options.php:509
+msgid "Show Featured Products"
+msgstr "Tampilkan Produk Pilihan"
+
+#: inc/customizer-options.php:511
+msgid "Lists products marked with a star (Featured) in Products → All Products. Hidden while there are none."
+msgstr "Berisi produk yang diberi tanda bintang (Featured) di Products → All Products. Tidak tampil jika belum ada."
+
+#: inc/customizer-options.php:52
+msgid "Slide %d: link"
+msgstr "Slide %d: link"
+
+#: inc/customizer-options.php:538
+msgid "Recommendations (product grid)"
+msgstr "Rekomendasi (grid produk)"
+
+#: inc/customizer-options.php:542
+msgid "Show the Recommendations grid"
+msgstr "Tampilkan grid Rekomendasi"
+
+#: inc/customizer-options.php:548
+msgid "Recommended for You"
+msgstr "Rekomendasi Untukmu"
+
+#: inc/customizer-options.php:553
+msgid "Number of products"
+msgstr "Jumlah produk"
+
+#: inc/customizer-options.php:563
+msgid "Sort products by"
+msgstr "Urutkan produk berdasarkan"
+
+#: inc/customizer-options.php:566
+msgid "Newest"
+msgstr "Terbaru"
+
+#: inc/customizer-options.php:567 inc/home.php:246
+msgid "Best Sellers"
+msgstr "Terlaris"
+
+#: inc/customizer-options.php:568
+msgid "Highest rated"
+msgstr "Rating tertinggi"
+
+#: inc/customizer-options.php:569
+msgid "Lowest price"
+msgstr "Harga terendah"
+
+#: inc/customizer-options.php:570
+msgid "Random"
+msgstr "Acak"
+
+#: inc/customizer-options.php:576
+msgid "Button text below the grid"
+msgstr "Teks tombol di bawah grid"
+
+#: inc/customizer-options.php:577
+msgid "View All Products"
+msgstr "Lihat Semua Produk"
+
+#: inc/customizer-options.php:592
+msgid "Shop & Product Cards"
+msgstr "Toko & Kartu Produk"
+
+#: inc/customizer-options.php:596
+msgid "Layout"
+msgstr "Tata letak"
+
+#: inc/customizer-options.php:600
+msgid "Products per page (Shop & categories)"
+msgstr "Produk per halaman (Shop & kategori)"
+
+#: inc/customizer-options.php:609
+msgid "Product columns on the Shop page (desktop)"
+msgstr "Kolom produk di halaman Shop (desktop)"
+
+#: inc/customizer-options.php:619
+msgid "Product columns on the home page (desktop)"
+msgstr "Kolom produk di beranda (desktop)"
+
+#: inc/customizer-options.php:629
+msgid "Product columns on mobile"
+msgstr "Kolom produk di HP"
+
+#: inc/customizer-options.php:638
+msgid "Show the filter sidebar on the Shop page"
+msgstr "Tampilkan sidebar filter di halaman Shop"
+
+#: inc/customizer-options.php:640
+msgid "The sidebar content can be replaced through the \"Shop Sidebar\" widget area."
+msgstr "Isi sidebar bisa diganti lewat widget area \"Sidebar Toko\"."
+
+#: inc/customizer-options.php:644
+msgid "Product cards"
+msgstr "Kartu produk"
+
+#: inc/customizer-options.php:648
+msgid "Product photo shape"
+msgstr "Bentuk foto produk"
+
+#: inc/customizer-options.php:651
+msgid "Square (1:1)"
+msgstr "Persegi (1:1)"
+
+#: inc/customizer-options.php:652
+msgid "Portrait (3:4), great for fashion"
+msgstr "Potret (3:4), cocok untuk fashion"
+
+#: inc/customizer-options.php:653
+msgid "Landscape (4:3)"
+msgstr "Lanskap (4:3)"
+
+#: inc/customizer-options.php:658
+msgid "How the photo fills the box"
+msgstr "Cara foto mengisi kotak"
+
+#: inc/customizer-options.php:661
+msgid "Fill the box (crops part of the photo)"
+msgstr "Penuhi kotak (sebagian foto terpotong)"
+
+#: inc/customizer-options.php:662
+msgid "Show the whole photo (great for white backgrounds)"
+msgstr "Tampilkan utuh (cocok untuk foto berlatar putih)"
+
+#: inc/customizer-options.php:667
+msgid "Show the category label"
+msgstr "Tampilkan label kategori"
+
+#: inc/customizer-options.php:672
+msgid "Show rating & units sold"
+msgstr "Tampilkan rating & jumlah terjual"
+
+#: inc/customizer-options.php:677
+msgid "Show the add to cart button"
+msgstr "Tampilkan tombol tambah ke keranjang"
+
+#: inc/customizer-options.php:682
+msgid "Sale badge"
+msgstr "Badge diskon"
+
+#: inc/customizer-options.php:685
+msgid "Percentage (e.g. -20%)"
+msgstr "Persentase (contoh: -20%)"
+
+#: inc/customizer-options.php:686 inc/setup.php:62
+msgid "Text"
+msgstr "Teks"
+
+#: inc/customizer-options.php:687
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: inc/customizer-options.php:692
+msgid "Sale badge text"
+msgstr "Teks badge diskon"
+
+#: inc/customizer-options.php:700
+msgid "Single Product Page"
+msgstr "Halaman Detail Produk"
+
+#: inc/customizer-options.php:704
+msgid "Show units sold"
+msgstr "Tampilkan jumlah terjual"
+
+#: inc/customizer-options.php:709
+msgid "Show SKU, categories and tags"
+msgstr "Tampilkan SKU, kategori, dan tag"
+
+#: inc/customizer-options.php:714
+msgid "Keep product photos in view while scrolling (desktop)"
+msgstr "Foto produk tetap terlihat saat scroll (desktop)"
+
+#: inc/customizer-options.php:719
+msgid "Info points below the buy buttons"
+msgstr "Poin info di bawah tombol beli"
+
+#: inc/customizer-options.php:721
+msgid "One line per point, for example \"Free shipping on orders over $50\". Leave empty to hide."
+msgstr "Satu baris = satu poin, misalnya \"Gratis ongkir min. belanja Rp100.000\". Kosongkan untuk menyembunyikan."
+
+#: inc/customizer-options.php:725
+msgid "Show related products"
+msgstr "Tampilkan produk terkait"
+
+#: inc/customizer-options.php:730
+msgid "Number of related products"
+msgstr "Jumlah produk terkait"
+
+#: inc/customizer-options.php:742
+msgid "Social Media"
+msgstr "Media Sosial"
+
+#: inc/customizer-options.php:746
+msgid "Social profiles"
+msgstr "Media sosial"
+
+#: inc/customizer-options.php:747
+msgid "Icons appear in the footer for every link you fill in."
+msgstr "Ikon tampil di footer untuk link yang diisi."
+
+#: inc/customizer-options.php:778
+msgid "Footer & Contact"
+msgstr "Footer & Kontak"
+
+#: inc/customizer-options.php:782
+msgid "Short store description"
+msgstr "Deskripsi singkat toko"
+
+#: inc/customizer-options.php:783
+msgid "A modern online store with handpicked products and an easy shopping experience."
+msgstr "Toko online modern dengan produk pilihan dan pengalaman belanja yang mudah."
+
+#: inc/customizer-options.php:787
+msgid "Menu columns"
+msgstr "Kolom menu"
+
+#: inc/customizer-options.php:788
+msgid "Column contents are managed in Appearance → Menus (\"Footer: Categories Column\" and \"Footer: Help Column\" locations). Without a menu, the columns are filled automatically."
+msgstr "Isi kolom diatur di Appearance → Menus (lokasi \"Footer: Kolom Kategori\" dan \"Footer: Kolom Bantuan\"). Jika belum ada menu, kolom diisi otomatis."
+
+#: inc/customizer-options.php:792
+msgid "Show the Categories column"
+msgstr "Tampilkan kolom Kategori"
+
+#: inc/customizer-options.php:797
+msgid "Categories column title"
+msgstr "Judul kolom Kategori"
+
+#: inc/customizer-options.php:80
+msgid "General"
+msgstr "Tampilan Umum"
+
+#: inc/customizer-options.php:803
+msgid "Help column title"
+msgstr "Judul kolom Bantuan"
+
+#: inc/customizer-options.php:804
+msgid "Help"
+msgstr "Bantuan"
+
+#: inc/customizer-options.php:808
+msgid "Contact"
+msgstr "Kontak"
+
+#: inc/customizer-options.php:809
+msgid "The \"Contact Us\" column only appears when at least one field is filled in."
+msgstr "Kolom \"Hubungi Kami\" hanya tampil jika minimal satu diisi."
+
+#: inc/customizer-options.php:81
+msgid "Colors, fonts and basic shapes used across the whole site."
+msgstr "Warna, huruf, dan bentuk dasar yang dipakai di seluruh situs."
+
+#: inc/customizer-options.php:813
+msgid "Phone"
+msgstr "Telepon"
+
+#: inc/customizer-options.php:818
+msgid "Email"
+msgstr "Email"
+
+#: inc/customizer-options.php:823
+msgid "Address"
+msgstr "Alamat"
+
+#: inc/customizer-options.php:828
+msgid "Bottom bar"
+msgstr "Baris paling bawah"
+
+#: inc/customizer-options.php:832
+msgid "Copyright text"
+msgstr "Teks hak cipta"
+
+#: inc/customizer-options.php:833
+msgid "© {year} {site}. All rights reserved."
+msgstr "© {year} {site}. Hak cipta dilindungi."
+
+#: inc/customizer-options.php:834
+msgid "{year} and {site} are replaced automatically."
+msgstr "{year} dan {site} diganti otomatis."
+
+#: inc/customizer-options.php:838
+msgid "Note on the bottom right"
+msgstr "Catatan di kanan bawah"
+
+#: inc/customizer-options.php:840
+msgid "Optional, for example \"We accept bank transfers & e-wallets\"."
+msgstr "Opsional, misalnya \"Pembayaran via Transfer Bank & QRIS\"."
+
+#: inc/customizer-options.php:846
+msgid "Mobile"
+msgstr "Tampilan Mobile"
+
+#: inc/customizer-options.php:85
+msgid "Colors"
+msgstr "Warna"
+
+#: inc/customizer-options.php:850
+msgid "Show the app-style bottom navigation"
+msgstr "Tampilkan navigasi bawah ala aplikasi"
+
+#: inc/customizer-options.php:852
+msgid "Home, Categories, Cart and Account at the bottom of phone screens."
+msgstr "Beranda, Kategori, Keranjang, dan Akun di bagian bawah layar HP."
+
+#: inc/customizer-options.php:856
+msgid "Show the back to top button"
+msgstr "Tampilkan tombol kembali ke atas"
+
+#: inc/customizer-options.php:89
+msgid "Primary color"
+msgstr "Warna utama"
+
+#: inc/customizer-options.php:91
+msgid "Buttons, links, top bar, footer and banner. Lighter and darker shades are calculated automatically."
+msgstr "Tombol, link, bar atas, footer, dan banner. Varian terang dan gelapnya dihitung otomatis."
+
+#: inc/customizer-options.php:95
+msgid "Accent color"
+msgstr "Warna aksen"
+
+#: inc/customizer-options.php:97
+msgid "Rating stars, the yellow promo box and decorations."
+msgstr "Bintang rating, kotak promo kuning, dan ornamen."
+
+#: inc/customizer.php:217 inc/customizer.php:314 inc/customizer.php:315
+msgid "Verdora Settings"
+msgstr "Pengaturan Verdora"
+
+#: inc/customizer.php:218
+msgid "All Verdora theme settings. Changes show up in the preview right away, before you publish them."
+msgstr "Semua pengaturan tema Verdora. Perubahan langsung terlihat di pratinjau sebelum dipublikasikan."
+
+#: inc/enqueue.php:67
+msgid "Ended"
+msgstr "Berakhir"
+
+#: inc/enqueue.php:68
+msgid "Decrease quantity"
+msgstr "Kurangi jumlah"
+
+#: inc/enqueue.php:69
+msgid "Increase quantity"
+msgstr "Tambah jumlah"
+
+#: inc/home.php:131
+msgid "-%d%%"
+msgstr "-%d%%"
+
+#: inc/home.php:133
+msgid "New"
+msgstr "Baru"
+
+#: inc/home.php:183
+msgid "Great Deals"
+msgstr "Promo Hemat"
+
+#: inc/home.php:185
+msgid "Up to %d%% Off"
+msgstr "Diskon hingga %d%%"
+
+#: inc/home.php:187
+msgid "%s product is on sale. Shop before the deal ends!"
+msgid_plural "%s products are on sale. Shop before the deal ends!"
+msgstr[0] "%s produk sedang diskon. Belanja sebelum promonya berakhir!"
+
+#: inc/home.php:188
+msgid "View Deals"
+msgstr "Lihat Promo"
+
+#: inc/home.php:199
+msgid "Just Arrived"
+msgstr "Baru Datang"
+
+#: inc/home.php:200
+msgid "New Collection"
+msgstr "Koleksi Terbaru"
+
+#: inc/home.php:201
+msgid "Brand-new products, ready for you to check out today."
+msgstr "Produk-produk baru yang siap kamu checkout hari ini."
+
+#: inc/home.php:202
+msgid "View New Arrivals"
+msgstr "Lihat Produk Baru"
+
+#: inc/home.php:239
+msgid "Discounts"
+msgstr "Diskon"
+
+#: inc/home.php:252
+msgid "New Arrivals"
+msgstr "Produk Baru"
+
+#: inc/home.php:259
+msgid "Top Rated"
+msgstr "Rating Terbaik"
+
+#: inc/home.php:272
+msgid "My Orders"
+msgstr "Pesanan Saya"
+
+#: inc/setup.php:145
+msgid "Shop Sidebar"
+msgstr "Sidebar Toko"
+
+#: inc/setup.php:147
+msgid "Shown on the Shop and category pages. If empty, the theme shows built-in category and price filters."
+msgstr "Tampil di halaman Shop dan kategori. Jika kosong, tema menampilkan filter kategori dan harga bawaan."
+
+#: inc/setup.php:156
+msgid "Blog Sidebar"
+msgstr "Sidebar Blog"
+
+#: inc/setup.php:158
+msgid "Shown on the blog and single posts."
+msgstr "Tampil di halaman blog dan artikel."
+
+#: inc/setup.php:42
+msgid "Emerald"
+msgstr "Emerald"
+
+#: inc/setup.php:47
+msgid "Dark Emerald"
+msgstr "Emerald Gelap"
+
+#: inc/setup.php:52
+msgid "Mint"
+msgstr "Mint"
+
+#: inc/setup.php:57
+msgid "Amber"
+msgstr "Kuning"
+
+#: inc/setup.php:67
+msgid "White"
+msgstr "Putih"
+
+#: inc/setup.php:95
+msgid "Primary Navigation (below search, supports dropdowns)"
+msgstr "Navigasi Utama (di bawah pencarian, mendukung dropdown)"
+
+#: inc/setup.php:96
+msgid "Top Bar (very top row)"
+msgstr "Bar Atas (baris paling atas)"
+
+#: inc/setup.php:97
+msgid "Footer: Categories Column"
+msgstr "Footer: Kolom Kategori"
+
+#: inc/setup.php:98
+msgid "Footer: Help Column"
+msgstr "Footer: Kolom Bantuan"
+
+#: inc/template-tags.php:217
+msgctxt "compact number, millions"
+msgid "%sM"
+msgstr "%sjt"
+
+#: inc/template-tags.php:221
+msgctxt "compact number, thousands"
+msgid "%sK"
+msgstr "%srb"
+
+#: inc/template-tags.php:260 template-parts/home/flash-sale.php:49 template-parts/home/categories.php:23
+msgid "See all"
+msgstr "Lihat semua"
+
+#: inc/woocommerce.php:141
+msgid "Product filters"
+msgstr "Filter produk"
+
+#: inc/woocommerce.php:143 inc/woocommerce.php:272
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/woocommerce.php:144
+msgid "Close filters"
+msgstr "Tutup filter"
+
+#: inc/woocommerce.php:194 inc/customizer-options.php:422 inc/customizer-options.php:798 template-parts/header/drawer.php:37 footer.php:128 searchform.php:45
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/woocommerce.php:197 inc/home.php:266 footer.php:84
+msgid "All Products"
+msgstr "Semua Produk"
+
+#: inc/woocommerce.php:218
+msgid "Price & Deals"
+msgstr "Harga & Promo"
+
+#: inc/woocommerce.php:222
+msgid "Minimum price"
+msgstr "Harga minimum"
+
+#: inc/woocommerce.php:223
+msgid "Min"
+msgstr "Min"
+
+#: inc/woocommerce.php:227
+msgid "Maximum price"
+msgstr "Harga maksimum"
+
+#: inc/woocommerce.php:228
+msgid "Max"
+msgstr "Maks"
+
+#: inc/woocommerce.php:233
+msgid "On sale"
+msgstr "Sedang diskon"
+
+#: inc/woocommerce.php:239
+msgid "Apply"
+msgstr "Terapkan"
+
+#: inc/woocommerce.php:240
+msgid "Reset"
+msgstr "Reset"
+
+#: inc/woocommerce.php:314
+msgid "Out of stock"
+msgstr "Stok habis"
+
+#: inc/woocommerce.php:379 inc/woocommerce.php:504
+msgid "%s sold"
+msgstr "%s terjual"
+
+#: inc/woocommerce.php:398
+msgid "%d left in stock"
+msgstr "Sisa stok %d"
+
+#: inc/woocommerce.php:405
+msgid "Almost gone! %d left"
+msgstr "Segera habis! Sisa %d"
+
+#: inc/woocommerce.php:407
+msgid "%d left"
+msgstr "Tersisa %d"
+
+#: inc/woocommerce.php:446 inc/customizer-options.php:693
+msgid "Sale"
+msgstr "Promo"
+
+#: inc/woocommerce.php:85
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/woocommerce.php:87 footer.php:125
+msgid "Home"
+msgstr "Beranda"
+
+#: index.php:28
+msgid "Search results: %s"
+msgstr "Hasil pencarian: %s"
+
+#: index.php:47 template-parts/home/featured.php:29 template-parts/home/flash-sale.php:53 single.php:45
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: index.php:48 template-parts/home/featured.php:31 template-parts/home/flash-sale.php:55 single.php:46
+msgid "Next"
+msgstr "Berikutnya"
+
+#: page.php:32 single.php:31
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: searchform.php:18 searchform.php:20 searchform.php:79 searchform.php:84
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:19 searchform.php:28
+msgid "Search…"
+msgstr "Cari…"
+
+#: searchform.php:34
+msgid "All"
+msgstr "Semua"
+
+#: searchform.php:54
+msgid "Category:"
+msgstr "Kategori:"
+
+#: searchform.php:60
+msgid "Search in category"
+msgstr "Cari di kategori"
+
+#: searchform.php:64
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: sidebar.php:13
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: template-parts/content-none.php:12
+msgid "Nothing to show yet"
+msgstr "Belum ada yang bisa ditampilkan"
+
+#: template-parts/content-none.php:13
+msgid "Try another search term or go back to the home page."
+msgstr "Coba kata kunci lain atau kembali ke beranda."
+
+#: template-parts/header/drawer.php:13
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/header/drawer.php:16
+msgid "Close menu"
+msgstr "Tutup menu"
+
+#: template-parts/header/drawer.php:22
+msgid "Mobile menu"
+msgstr "Menu mobile"
+
+#: template-parts/header/drawer.php:57
+msgid "Information"
+msgstr "Informasi"
+
+#: template-parts/header/drawer.php:58
+msgid "Information menu"
+msgstr "Menu informasi"
+
+#: template-parts/home/categories.php:42
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] "%s produk"
+
+#: template-parts/home/flash-sale.php:42
+msgid "Flash sale time left"
+msgstr "Sisa waktu flash sale"
+
+#: template-parts/home/flash-sale.php:43
+msgid "Ends in"
+msgstr "Berakhir dalam"
+
+#: template-parts/home/hero.php:116
+msgid "View"
+msgstr "Lihat"
+
+#: template-parts/home/hero.php:44
+msgid "Promotions"
+msgstr "Promosi"
+
+#: template-parts/home/hero.php:48
+msgid "carousel"
+msgstr "carousel"
+
+#: template-parts/home/hero.php:48
+msgid "Promotional banners"
+msgstr "Banner promosi"
+
+#: template-parts/home/hero.php:66
+msgid "Previous banner"
+msgstr "Banner sebelumnya"
+
+#: template-parts/home/hero.php:67
+msgid "Next banner"
+msgstr "Banner berikutnya"
+
+#: template-parts/home/hero.php:76
+msgid "Show banner %d"
+msgstr "Tampilkan banner %d"
+
+#: template-parts/home/hero.php:82 template-parts/home/hero.php:82
+msgid "Pause banners"
+msgstr "Jeda banner"
+
+#: template-parts/home/hero.php:82
+msgid "Play banners"
+msgstr "Putar banner"
+
+#: template-parts/home/quicklinks.php:18
+msgid "Quick menu"
+msgstr "Menu cepat"
+
+#: template-parts/home/slide.php:17
+msgid "%1$d of %2$d"
+msgstr "%1$d dari %2$d"
+
+#: template-parts/home/slide.php:23
+msgid "slide"
+msgstr "slide"
+
+#: template-parts/home/slide.php:34
+msgid "Promotional banner %d"
+msgstr "Banner promosi %d"
