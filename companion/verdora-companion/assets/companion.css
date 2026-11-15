@@ -1,0 +1,40 @@
+/**
+ * Verdora Companion: WhatsApp buttons.
+ *
+ * @author Priyana Anggiyawan
+ */
+
+.vd-wa {
+	position: fixed; right: 20px; bottom: 24px; z-index: 45;
+	display: inline-flex; align-items: center; gap: 8px;
+	padding: 12px 18px 12px 14px;
+	border-radius: 999px;
+	background: #25d366; color: #fff;
+	font-weight: 700; font-size: 14px; line-height: 1.2;
+	text-decoration: none;
+	box-shadow: 0 14px 28px -12px rgba(37, 211, 102, .7);
+	transition: transform .2s ease, background-color .2s;
+}
+.vd-wa:hover,
+.vd-wa:focus { background: #1ebe5b; color: #fff; transform: translateY(-2px); }
+.vd-wa svg { flex-shrink: 0; }
+.vd-wa-left .vd-wa { right: auto; left: 20px; }
+.vd-has-wa.vd-wa-right .vd-totop { bottom: 88px; }
+
+.vd-btn--wa {
+	display: flex; align-items: center; justify-content: center; gap: 8px;
+	width: 100%; min-height: 48px;
+	border-radius: 14px;
+	background: #25d366; color: #fff;
+	font-weight: 700; text-decoration: none;
+}
+.vd-btn--wa:hover,
+.vd-btn--wa:focus { background: #1ebe5b; color: #fff; }
+
+@media (max-width: 900px) {
+	.vd-wa { right: 14px; padding: 14px; }
+	.vd-wa-left .vd-wa { left: 14px; }
+	.vd-wa span { display: none; }
+	.vd-has-bottomnav .vd-wa { bottom: calc(80px + env(safe-area-inset-bottom)); }
+	.vd-has-bottomnav.vd-has-wa.vd-wa-right .vd-totop { bottom: calc(144px + env(safe-area-inset-bottom)); }
+}

@@ -1,0 +1,189 @@
+# Copyright (C) 2026 Priyana Anggiyawan
+# This file is distributed under the GNU General Public License v2 or later.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Verdora Companion 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/anggiyawan/verdora-woocommerce-theme/issues\n"
+"POT-Creation-Date: 2026-11-15 02:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: verdora-companion\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: includes/demo-import.php:102
+msgid "%d skipped because its SKU already exists."
+msgid_plural "%d skipped because their SKU already exists."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/demo-import.php:105
+msgid "View store →"
+msgstr ""
+
+#: includes/demo-import.php:111
+msgid "%d demo product and its images were deleted."
+msgid_plural "%d demo products and their images were deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/demo-import.php:117
+msgid "Fill the store with 10 complete demo products (description, attributes, sale prices, stock and images) to see the Verdora theme at its best. Demo data is marked, so the Delete button only removes demo data and never touches your own products."
+msgstr ""
+
+#: includes/demo-import.php:125
+msgid "Installed: %d demo product"
+msgid_plural "Installed: %d demo products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/demo-import.php:129
+msgid "Not imported yet"
+msgstr ""
+
+#: includes/demo-import.php:136
+msgid "Import missing products"
+msgstr ""
+
+#: includes/demo-import.php:136
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/demo-import.php:141
+msgid "Delete all demo products and their images? Your own products will not be deleted."
+msgstr ""
+
+#: includes/demo-import.php:144
+msgid "Delete Demo Content"
+msgstr ""
+
+#: includes/demo-import.php:149
+msgid "What is included"
+msgstr ""
+
+#: includes/demo-import.php:171
+msgid "The import uploads about 20 images to the Media Library and may take a few seconds. Missing categories are created and existing ones are reused. Products with the same SKU (VD-DEMO-xxx) are never imported twice."
+msgstr ""
+
+#: includes/demo-import.php:172
+msgid "Image sources and licenses are listed in demo/credits.txt."
+msgstr ""
+
+#: includes/demo-import.php:341 includes/demo-import.php:389
+msgid "You are not allowed to do this."
+msgstr ""
+
+#: includes/demo-import.php:481
+msgid "Your store is still empty."
+msgstr ""
+
+#: includes/demo-import.php:482
+msgid "Want to see the Verdora theme with products? Import 10 demo products with images. You can delete them again at any time."
+msgstr ""
+
+#: includes/demo-import.php:485
+msgid "View Demo Content"
+msgstr ""
+
+#: includes/demo-import.php:486
+msgid "Don’t show again"
+msgstr ""
+
+#: includes/demo-import.php:67 includes/demo-import.php:68 includes/demo-import.php:93
+msgid "Verdora Demo Content"
+msgstr ""
+
+#: includes/demo-import.php:99
+msgid "%d demo product imported."
+msgid_plural "%d demo products imported."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/seo.php:30
+msgid "SEO Meta Tags"
+msgstr ""
+
+#: includes/seo.php:47
+msgid "Add a meta description and Open Graph tags"
+msgstr ""
+
+#: includes/seo.php:48
+msgid "Skipped automatically when an SEO plugin (Yoast, Rank Math, AIOSEO, SEOPress, The SEO Framework) is active."
+msgstr ""
+
+#: includes/whatsapp.php:104
+msgid "WhatsApp number"
+msgstr ""
+
+#: includes/whatsapp.php:105
+msgid "International format such as 6281234567890. Local Indonesian numbers (08…) are converted automatically. Leave empty to turn off all WhatsApp features."
+msgstr ""
+
+#: includes/whatsapp.php:110
+msgid "Show the floating chat button"
+msgstr ""
+
+#: includes/whatsapp.php:115
+msgid "Floating button position"
+msgstr ""
+
+#: includes/whatsapp.php:117
+msgid "Bottom right"
+msgstr ""
+
+#: includes/whatsapp.php:118
+msgid "Bottom left"
+msgstr ""
+
+#: includes/whatsapp.php:124
+msgid "Floating button text (desktop)"
+msgstr ""
+
+#: includes/whatsapp.php:129
+msgid "Show an \"Ask via WhatsApp\" button on product pages"
+msgstr ""
+
+#: includes/whatsapp.php:134
+msgid "Greeting message"
+msgstr ""
+
+#: includes/whatsapp.php:135
+msgid "{site} is replaced with the store name. On product pages the product name and link are added automatically."
+msgstr ""
+
+#: includes/whatsapp.php:233
+msgid "Chat via WhatsApp"
+msgstr ""
+
+#: includes/whatsapp.php:256
+msgid "Ask via WhatsApp"
+msgstr ""
+
+#: includes/whatsapp.php:271
+msgid "Chat Seller"
+msgstr ""
+
+#: includes/whatsapp.php:52
+msgid "Product: %s"
+msgstr ""
+
+#: includes/whatsapp.php:90
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/whatsapp.php:91 includes/seo.php:31
+msgid "Added by the Verdora Companion plugin."
+msgstr ""
+
+#: verdora-companion.php:44
+msgid "Chat with us"
+msgstr ""
+
+#: verdora-companion.php:46
+msgid "Hi {site}, I have a question."
+msgstr ""

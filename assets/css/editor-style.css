@@ -1,0 +1,40 @@
+/**
+ * Block editor styles: match the front-end typography and colors.
+ *
+ * @package Verdora
+ * @author  Priyana Anggiyawan
+ */
+
+body {
+	font-family: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.75;
+	color: #334155;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #0f172a;
+	font-weight: 800;
+	line-height: 1.25;
+	letter-spacing: -.01em;
+}
+
+a { color: #059669; text-underline-offset: 3px; }
+a:hover { color: #065f46; }
+
+blockquote {
+	margin: 1.5em 0;
+	padding: 12px 20px;
+	border-left: 4px solid #059669;
+	background: #ecfdf5;
+	border-radius: 0 10px 10px 0;
+}
+
+img { border-radius: 10px; }
+
+.wp-block-button__link {
+	border-radius: 12px;
+	background: #059669;
+	color: #fff;
+	font-weight: 700;
+}
